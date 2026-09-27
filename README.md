@@ -1,3 +1,9 @@
+# Santander 2026 - Automação com N8N
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-de-oliveira-silva-645097194/"><img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" alt="LinkedIn Icon" width="14px" height="14px"> Linkedin - Vinícius Silva </a>\
+Um projeto demonstrativo de competências em automações com n8n. O Jupyter Notebook envia os dados por meio de um webhook para o n8n, que recebe as informações, realiza uma requisição HTTP, faz o JOIN entre as bases de pessoas e produtos e filtra os produtos de acordo com o saldo disponível de cada pessoa. Por fim, o n8n retorna, por meio do webhook, quais produtos estão disponíveis para cada pessoa.
+
+---
+
 # Criando um Assistente de Investimentos com RPA e IA Generativa
 
 ## Descrição
